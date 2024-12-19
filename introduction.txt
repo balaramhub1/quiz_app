@@ -1,1 +1,2 @@
-This is an intorductory session
+This is an intorductory session.
+this is the second line of text
